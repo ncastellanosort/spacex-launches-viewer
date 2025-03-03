@@ -1,0 +1,10 @@
+{% load static %}
+<script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+
+<div class="relative">
+	<nav class="w-full bg-black flex justify-center px-4 fixed top-0 right-0 z-10">
+		<a href="{% url 'spacex' %}">
+			<img src="{% static '/images/spacex_logo.svg' %}" class="w-28 h-14" />
+		</a>
+	</nav>
+</div>
