@@ -4,6 +4,9 @@ Used [SpaceX-API](https://github.com/r-spacex/SpaceX-API)
 
 ![Image](https://github.com/user-attachments/assets/2171bc4a-887a-4380-9076-d775351ac29d)
 
+Install requirements:
+
 ```sh
 pip install -r requirements.txt
+
 
